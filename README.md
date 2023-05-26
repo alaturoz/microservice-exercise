@@ -4,7 +4,7 @@ This is an Example of Microservice Architecture provided by this Tutorial on YT:
 
 The full example can be viewed at https://github.com/SaiUpadhyayula/spring-boot-microservices
 
-I used this to exercise in developing microservices in Spring Boot.
+I used this to exercise in developing microservices with Spring Boot.
 
 The Architecture consists of 3 Services: Order, Inventory and Product, an API-Gateway to reach the services and a discovery server.
 
