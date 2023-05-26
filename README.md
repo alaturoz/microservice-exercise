@@ -1,6 +1,6 @@
 # microservice-exercise
 
-This is an Example of Microservice Architecture provided by this Tutorial on YT: https://www.youtube.com/watch?v=mPPhcU7oWDU&t=30s
+This is an Example of a Microservice Architecture provided by this Tutorial on YT: https://www.youtube.com/watch?v=mPPhcU7oWDU&t=30s
 
 The full example can be viewed at https://github.com/SaiUpadhyayula/spring-boot-microservices
 
